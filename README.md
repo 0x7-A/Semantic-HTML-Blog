@@ -1,5 +1,4 @@
 # HTML & CSS Practice Projects
-
 A collection of foundational front-end projects focusing on semantic HTML markup and CSS styling principles.
 
 ## Projects Overview
@@ -13,8 +12,3 @@ A collection of foundational front-end projects focusing on semantic HTML markup
 * Responsive table sizing using `max-width` and auto margins.
 * Page layout styled using Flexbox to manage vertical flow and footer positioning.
 
-## How to View Locally
-
-1. Clone or download the repository:
-   ```bash
-   git clone [https://github.com/0x7-A/html-css-projects.git](https://github.com/0x7-A/html-css-projects.git)
